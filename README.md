@@ -35,12 +35,13 @@ I also work on private backend projects, including document intelligence APIs th
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,redis,mongodb,postgres,docker,linux,git,github,js,react,nginx,aws" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,redis,mongodb,postgres,docker,prometheus,grafana,linux,git,github,js,react,nginx,aws" alt="Tech stack icons" />
 </p>
 
 **Backend:** Python, FastAPI, Django, Django REST Framework, REST APIs, JWT auth, async workflows  
 **Databases and cache:** PostgreSQL, MongoDB, SQLite, Redis, Elasticsearch  
 **Infrastructure:** Docker, Docker Compose, Nginx, Linux, GitHub Actions  
+**Observability and monitoring:** Prometheus, Grafana, service metrics, health checks, dashboards  
 **AI engineering:** LangGraph, LangChain, OCR, LLM workflows, ATS analysis, prompt safety  
 **Systems focus:** API gateways, gRPC, rate limiting, caching, real-time communication, system design
 
@@ -75,6 +76,7 @@ I also work on private backend projects, including document intelligence APIs th
 
 - Production-grade FastAPI architecture
 - Redis caching, rate limiting, and real-time backend patterns
+- Observability with Prometheus metrics and Grafana dashboards
 - gRPC and API gateway design
 - Distributed systems and system design fundamentals
 - GenAI backends, RAG, agents, evaluation, and prompt safety
