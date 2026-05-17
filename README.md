@@ -16,7 +16,9 @@
 
 ## Professional Introduction
 
-I am a backend-oriented developer focused on Python, FastAPI, Django, Redis, Docker, databases, and system design. My work is centered on production-style backend systems: authenticated APIs, real-time communication, caching, rate limiting, AI workflows, search, and service-to-service architecture.
+I am a backend-oriented developer focused on Python, FastAPI, Django, Redis, Docker, databases, and system design. I believe in staying a learner in both professional and personal life, and I value every chance to pick up new knowledge, learn from others, and turn that learning into better work.
+
+My work is centered on production-style backend systems: authenticated APIs, real-time communication, caching, rate limiting, AI workflows, search, and service-to-service architecture.
 
 I enjoy creating practical, user-focused solutions like **ResumeAlign**, an AI resume optimization platform that combines FastAPI, LangGraph, OCR, Redis, PostgreSQL, S3-backed PDF storage, Docker, and CI/CD practices. I love learning new things, taking on meaningful challenges, and growing with every project.
 
