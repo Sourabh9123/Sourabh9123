@@ -20,10 +20,13 @@ I am a backend-oriented developer focused on Python, FastAPI, Django, Redis, Doc
 
 I enjoy creating practical, user-focused solutions like **ResumeAlign**, an AI resume optimization platform that combines FastAPI, LangGraph, OCR, Redis, PostgreSQL, S3-backed PDF storage, Docker, and CI/CD practices. I love learning new things, taking on meaningful challenges, and growing with every project.
 
+I also work on private backend projects, including document intelligence APIs that parse real files, extract structured insights with LLMs, and expose clean, production-style FastAPI services.
+
 ## About Me
 
 - I build backend systems with a focus on clean APIs, reliability, and practical architecture.
 - I am interested in real-time systems, distributed systems, API gateways, caching, search, and AI product backends.
+- I have hands-on experience with document processing workflows, file parsing, OCR-ready architecture, and LLM-backed structured data extraction.
 - I work comfortably in a Linux environment and use Docker for local development and deployment workflows.
 - I enjoy learning new technologies, improving through hands-on practice, and growing with every challenge I take on.
 
@@ -49,6 +52,7 @@ I enjoy creating practical, user-focused solutions like **ResumeAlign**, an AI r
 | [elastic_search](https://github.com/Sourabh9123/elastic_search) | Search/indexing experiment using Django with Elasticsearch service setup and index population flow | Python, Django, Elasticsearch |
 | [ecom-react-backend](https://github.com/Sourabh9123/ecom-react-backend) | E-commerce backend with authentication, cart/order/payment modules, Docker Compose, Nginx, and PostgreSQL setup | Python, Django, DRF, Docker, PostgreSQL, Razorpay |
 | [learn-build-scale](https://github.com/Sourabh9123/learn-build-scale) | Structured roadmap for DSA, backend engineering, Python, Linux/OS, system design, GenAI agents, and portfolio growth | System design, backend, Linux, GenAI, interview prep |
+| Private document intelligence platform | Backend service for uploading documents, parsing text from TXT/PDF/DOCX/DOC files, and extracting summaries, entities, themes, sentiment, and action items with LLMs | FastAPI, Python, OpenAI, PyPDF, python-docx, Docker |
 
 ## GitHub Stats
 
