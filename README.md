@@ -54,15 +54,15 @@ I also work on private backend projects, including document intelligence APIs th
 | [learn-build-scale](https://github.com/Sourabh9123/learn-build-scale) | Structured roadmap for DSA, backend engineering, Python, Linux/OS, system design, GenAI agents, and portfolio growth | System design, backend, Linux, GenAI, interview prep |
 | Private document intelligence platform | Backend service for uploading documents, parsing text from TXT/PDF/DOCX/DOC files, and extracting summaries, entities, themes, sentiment, and action items with LLMs | FastAPI, Python, OpenAI, PyPDF, python-docx, Docker |
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sourabh9123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Sourabh's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Sourabh9123&theme=github-dark-blue&hide_border=true" alt="Sourabh's GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sourabh9123&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh9123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sourabh9123&theme=github_dark" alt="GitHub contribution stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sourabh9123&theme=github_dark" alt="Repository languages" />
 </p>
 
 <p align="center">
